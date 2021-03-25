@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FruverApp</string>
+    <string name="btn1_label">Press me</string>
+    <string name="btn_login">Sign in</string>
+</resources>
