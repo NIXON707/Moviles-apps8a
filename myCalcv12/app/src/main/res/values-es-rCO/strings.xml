@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myCalcv1.2</string>
+    <string name="text1">Primer Numero</string>
+    <string name="number1">Numero 1</string>
+    <string name="text2">Segundo Numero</string>
+    <string name="number2">Numero 2</string>
+    <string name="spinner">Seleccion</string>
+    <string name="answer">Respuesta</string>
+    <string name="Button">Calcular</string>
+    <string name="opDivide">Dividir</string>
+    <string name="opMultiply">Multipicar</string>
+    <string name="opSubtract">Restar</string>
+    <string name="opAdd">Sumar</string>
+    <string name="RF">Campo Requerido</string>
+    <string name="CE">Campos vacíos</string>
+    <string name="CE1">Campo 1 Vacío</string>
+    <string name="CE2">Campo 2 Vacío</string>
+</resources>

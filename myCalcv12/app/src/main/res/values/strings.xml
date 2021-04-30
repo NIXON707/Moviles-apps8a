@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">myCalcv12</string>
+    <string name="text1">First Number</string>
+    <string name="number1">Place number One here</string>
+    <string name="text2">Second Number</string>
+    <string name="number2">Place number Two here</string>
+    <string name="spinner">Selection</string>
+    <string name="Button">Calculate</string>
+    <string name="answer">Answer</string>
+    <string name="opAdd">Add</string>
+    <string name="opSubtract">Subtract</string>
+    <string name="opMultiply">Multiply</string>
+    <string name="opDivide">Divide</string>
+    <string name="RF">Required field</string>
+    <string name="CE">Empty Fields</string>
+    <string name="CE1">Field 1 is Empty</string>
+    <string name="CE2">Field 2 is Empty</string>
+
+</resources>
