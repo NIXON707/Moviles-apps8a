@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         rf = getString(R.string.RF);
         ef = getString(R.string.CE);
         e1 = getString(R.string.CE1);
-        e1 = getString(R.string.CE2);
+        e2 = getString(R.string.CE2);
 
         String[] opciones={os,or,om,od};
         ArrayAdapter<String> adapter=new ArrayAdapter<String>( this,android.R.layout.simple_spinner_item,opciones);

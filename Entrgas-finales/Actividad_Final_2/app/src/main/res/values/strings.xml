@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">UserCredentials</string>
+    <string name="ac_editus">Update User</string>
+    <string name="ac_listus">User List</string>
+
+    <string name="lbl_user">User Name</string>
+    <string name="lbl_pass">Password</string>
+    <string name="ej_user">abcd@tu-mail.com</string>
+    <string name="ej_pass">********</string>
+    <string name="btn_in">SING IN</string>
+    <string name="btn_up">SING UP</string>
+    <string name="lbl_toast">Invalid credentials</string>
+    <string name="lbl_toast2">Available in future updates</string>
+    <string name="RF">Required field</string>
+    <string name="CE">Empty Fields</string>
+    <string name="CE1">Field 1 is Empty</string>
+    <string name="CE2">Field 2 is Empty</string>
+
+    <string name="lbl_fname">First Name</string>
+    <string name="lbl_lname">Last Name</string>
+    <string name="ej_fname">Peter</string>
+    <string name="ej_lname">MacDonald</string>
+    <string name="ej_mail">peter@tu-mail.com</string>
+    <string name="lbl_cpass">Confirm Password</string>
+    <string name="Btn_reg">Register</string>
+
+    <string name="lbl_cname">Peter MacDonald</string>
+    <string name="lbl_list1">List Male Users</string>
+    <string name="lbl_list2">List Female Users</string>
+    <string name="lbl_list3">List All Users</string>
+    <string name="lbl_list4">About me: Developer Info.</string>
+    <string name="lbl_list5">Logout: Go to Sing in Activity</string>
+    <string name="lbl_upuser">Update User</string>
+    <string name="lbl_deluser">Delete User</string>
+    <string name="lbl_toastdel">Only the administrator can delete users</string>
+
+    <string name="lbl_birth">Birth</string>
+    <string name="lbl_country">Country</string>
+    <string name="lbl_phone">Phone</string>
+    <string name="lbl_gender">Gender</string>
+    <string name="lbl_update">UPDATE</string>
+    <string name="ej_birth">  /   /  </string>
+    <string name="ej_country">Select country</string>
+    <string name="ej_phone">33334445555</string>
+    <string name="ej_gender">Select gender</string>
+</resources>

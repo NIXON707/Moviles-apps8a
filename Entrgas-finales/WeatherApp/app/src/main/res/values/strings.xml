@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="Search">Ex, Cali, CO</string>
+    <string name="btn_search">SEARCH WEATHER</string>
+    <string name="btn_map">GO TO MAPS</string>
+    <string name="text_v1">Current:</string>
+    <string name="text_v2">Min:</string>
+    <string name="text_v3">Max:</string>
+    <string name="text_v4">Weather</string>
+    <string name="text_v5">Current weather</string>
+    <string name="text_v6">Min weather</string>
+    <string name="text_v7">Max weather</string>
+    <string name="text_v8">Here weatherVal</string>
+    <string name="name_ac">How is the weather?</string>
+
+</resources>

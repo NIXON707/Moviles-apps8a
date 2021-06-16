@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El Clima</string>
+    <string name="Search">Ex, Cali, CO</string>
+    <string name="btn_search">Buscar Clima</string>
+    <string name="btn_map">Ir al Mapa</string>
+    <string name="text_v1">Actual</string>
+    <string name="text_v2">Minimo</string>
+    <string name="text_v3">Maximo</string>
+    <string name="text_v4">Clima</string>
+    <string name="text_v5">Clima Actual</string>
+    <string name="text_v6">Clima Minimo</string>
+    <string name="text_v7">Clima Maximo</string>
+    <string name="text_v8">Estado del Cielo</string>
+    <string name="name_ac">Cual es el Clima?</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Credenciales de Usuario</string>
+    <string name="lbl_user">Nombre de Usuario</string>
+    <string name="lbl_pass">Contraseña</string>
+    <string name="ej_user">abcd@tu-mail.com</string>
+    <string name="ej_pass">********</string>
+    <string name="btn_in">Iniciar sesión</string>
+    <string name="btn_up">Inscribirse</string>
+    <string name="lbl_toast">Credenciales invalidas</string>
+    <string name="lbl_toast2">Disponible en futuras Actualizaciones</string>
+    <string name="RF">Campo requerido</string>
+    <string name="CE">Campos Vacios</string>
+    <string name="CE1">El campo 1 esta Vacio</string>
+    <string name="CE2">El campo 2 esta Vacio</string>
+    <string name="lbl_fname">Nombres</string>
+    <string name="lbl_lname">Apellidos</string>
+    <string name="ej_fname">Peter</string>
+    <string name="ej_lname">MacDonald</string>
+    <string name="ej_mail">peter@tu-mail.com</string>
+    <string name="lbl_cpass">Confirmar contraseña</string>
+    <string name="Btn_reg">Registrar</string>
+    <string name="lbl_cname">Peter MacDonald</string>
+    <string name="lbl_list1">Lista de Usuarios Masculinos</string>
+    <string name="lbl_list2">Lista de Usuarios Femenina</string>
+    <string name="lbl_list3">Lista de Todos los Usuarios</string>
+    <string name="lbl_list4">Acerca de: Info. del Desarrollador</string>
+    <string name="lbl_list5">Cerrar sesión: Ir al Inicio</string>
+    <string name="lbl_upuser">Actualizar Usuario</string>
+    <string name="lbl_deluser">Borrar Usuario</string>
+    <string name="lbl_toastdel">Solo el administrador puede borrar usuarios</string>
+    <string name="lbl_birth">Fecha de Nacimiento</string>
+    <string name="lbl_country">Pais</string>
+    <string name="lbl_phone">Telefono</string>
+    <string name="lbl_gender">Genero</string>
+    <string name="lbl_update">ACTUALIZAR</string>
+    <string name="ej_birth">"  /   /  "</string>
+    <string name="ej_country">Seleccionar pais</string>
+    <string name="ej_phone">33334445555</string>
+    <string name="ej_gender">Seleccionar genero</string>
+    <string name="ac_editus">Actualizar Usuario</string>
+    <string name="ac_listus">Lista de Usuarios</string>
+</resources>
