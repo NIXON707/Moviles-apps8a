@@ -43,4 +43,10 @@
     <string name="ej_country">Select country</string>
     <string name="ej_phone">33334445555</string>
     <string name="ej_gender">Select gender</string>
+    <string name="gen_m">Male</string>
+    <string name="gen_f">Female</string>
+    <string name="coun_col">Colombia</string>
+    <string name="coun_us">USA</string>
+    <string name="coun_es">Espain</string>
+    <string name="coun_in">England</string>
 </resources>

@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         n1=(EditText)findViewById(R.id.editTextTextEmailAddress);
-        n2=(EditText)findViewById(R.id.editTextTextPassword);
+        n2=(EditText)findViewById(R.id.editPassword);
 
         rf = getString(R.string.RF);
         ef = getString(R.string.CE);

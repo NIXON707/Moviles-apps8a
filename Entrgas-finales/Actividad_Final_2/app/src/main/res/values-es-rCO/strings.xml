@@ -40,4 +40,10 @@
     <string name="ej_gender">Seleccionar genero</string>
     <string name="ac_editus">Actualizar Usuario</string>
     <string name="ac_listus">Lista de Usuarios</string>
+    <string name="gen_m">Masculino</string>
+    <string name="gen_f">Femenino</string>
+    <string name="coun_col">Colombia</string>
+    <string name="coun_us">USA</string>
+    <string name="coun_es">España</string>
+    <string name="coun_in">Inglaterra</string>
 </resources>

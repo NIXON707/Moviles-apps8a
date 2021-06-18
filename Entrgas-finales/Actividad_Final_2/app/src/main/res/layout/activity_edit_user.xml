@@ -96,13 +96,22 @@
                     android:layout_weight="1"
                     android:text="@string/lbl_pass" />
 
-                <EditText
-                    android:id="@+id/editTextTextPassword4"
-                    android:layout_width="wrap_content"
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:ems="10"
-                    android:hint="@string/ej_pass"
-                    android:inputType="textPassword" />
+                    app:hintAnimationEnabled="false"
+                    app:hintEnabled="false"
+                    app:passwordToggleEnabled="true">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#FFFFFF"
+                        android:ems="15"
+                        android:hint="@string/ej_pass"
+                        android:inputType="textPassword" />
+                </com.google.android.material.textfield.TextInputLayout>
+
             </TableRow>
 
             <TableRow
@@ -113,18 +122,21 @@
 
                 <TextView
                     android:id="@+id/textView22"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
+                    android:gravity="center_vertical"
                     android:text="@string/lbl_birth" />
 
                 <EditText
                     android:id="@+id/editTextDate"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
                     android:ems="10"
+                    android:gravity="center_horizontal"
                     android:hint="@string/ej_birth"
                     android:inputType="date" />
+
             </TableRow>
 
             <TableRow
@@ -194,9 +206,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="50dp"
+            android:background="@drawable/button_rounded"
             android:onClick="button1"
-            android:text="@string/lbl_update"
-            android:background="@drawable/button_rounded"/>
+            android:text="@string/lbl_update" />
 
     </LinearLayout>
 
